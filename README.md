@@ -24,6 +24,10 @@ the101 is a 5G cellular router that uses SIM cards to provide internet connectiv
 - **Automated Recovery:** Automatically retries network mode changes until internet is restored
 - **Detailed Logging:** System logs show exactly what's happening during the refresh process
 
+<p align="center">
+  <img src="https://i.ibb.co/S49LwC6Y/Screenshot-20260220-215418.jpg" width="250" alt="Home Screen">
+</p>
+
 ## Features
 
 - **One-Tap IP Refresh** - Instantly refresh your WAN IP with a single button
