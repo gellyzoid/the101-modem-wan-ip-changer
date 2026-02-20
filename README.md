@@ -48,8 +48,8 @@ the101 is a 5G cellular router that uses SIM cards to provide internet connectiv
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/router_control_flutter.git
-   cd router_control_flutter
+   git clone https://github.com/gellyzoid/the101-modem-wan-ip-changer.git
+   cd the101-modem-wan-ip-changer
    ```
 
 2. **Install dependencies:**
