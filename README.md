@@ -24,7 +24,7 @@ the101 is a 5G cellular router that uses SIM cards to provide internet connectiv
 - **Automated Recovery:** Automatically retries network mode changes until internet is restored
 - **Detailed Logging:** System logs show exactly what's happening during the refresh process
 
-## ✨ Features
+## Features
 
 - **One-Tap IP Refresh** - Instantly refresh your WAN IP with a single button
 - **IP Address Tracking** - View current and previous IP addresses
@@ -205,6 +205,5 @@ If you encounter any issues or have questions:
 
 - [Flutter Documentation](https://docs.flutter.dev/)
 - [Dart Documentation](https://dart.dev/guides)
-- [the101 Router Manual](https://example.com) _(link to actual manual if available)_
 
 ---
